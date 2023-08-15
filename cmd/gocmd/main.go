@@ -2,5 +2,5 @@ package main
 
 func main() {
 
-	println("I am gocmd commd output. v1.0.1")
+	println("I am gocmd commd output. v1.0.2")
 }
